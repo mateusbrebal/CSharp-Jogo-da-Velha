@@ -1,0 +1,10 @@
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\bin\Debug\UC11-Jogo-da-Velha-GRÁFICO.exe.config
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\bin\Debug\UC11-Jogo-da-Velha-GRÁFICO.exe
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\bin\Debug\UC11-Jogo-da-Velha-GRÁFICO.pdb
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\obj\Debug\UC11-Jogo-da-Velha-GRÁFICO.csproj.AssemblyReference.cache
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\obj\Debug\UC11_Jogo_da_Velha_GRÁFICO.Form1.resources
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\obj\Debug\UC11_Jogo_da_Velha_GRÁFICO.Properties.Resources.resources
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\obj\Debug\UC11-Jogo-da-Velha-GRÁFICO.csproj.GenerateResource.cache
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\obj\Debug\UC11-Jogo-da-Velha-GRÁFICO.csproj.CoreCompileInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\obj\Debug\UC11-Jogo-da-Velha-GRÁFICO.exe
+C:\Users\mateus.mbhespana\source\repos\UC11-Jogo-da-Velha-GRÁFICO\UC11-Jogo-da-Velha-GRÁFICO\obj\Debug\UC11-Jogo-da-Velha-GRÁFICO.pdb
