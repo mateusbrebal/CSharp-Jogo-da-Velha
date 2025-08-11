@@ -78,7 +78,7 @@ namespace UC11_Jogo_da_Velha_GRÁFICO
                 acertou = "N";
             }
 
-            MessageBox.Show(tentativas.ToString());
+            // MessageBox.Show(tentativas.ToString());
 
 
         }
